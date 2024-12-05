@@ -1,0 +1,20 @@
+a_44=''' Rohit''' #variables is case sensitive (a and A is not same variable )
+#a=' Rohit'
+#a= "Rohit"
+b=45
+c=32
+d=None
+
+d=True
+
+#printing the variables
+print(a_44)
+print(b)
+print(c)
+print(d)
+
+# printing the type of variables
+print(type(a_44))
+print(type(b))
+print(type(c))
+print(type(d))
