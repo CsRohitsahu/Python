@@ -15,7 +15,7 @@ c=greeting+name
 # print(name[0:])# is same as name[0:5]
 # c=name[-4:-1]# is same as name[1:4]
 # print(c)
-# name = "RohitIsGood"
-# d=name[0::3]    # in this slicing it starts printing from start index and after printing start index it prints next third character
-# print(d)
-
+name = "RohitIsGood"
+print(name[:len(name)])
+d=name[0::1]    # in this slicing it starts printing from start index and after printing start index it prints next third character
+print(d)

@@ -3,8 +3,10 @@ a_44=''' Rohit''' #variables is case sensitive (a and A is not same variable )
 #a= "Rohit"
 b=45
 c=32
-#d=None
+d=None
+
 d=True
+
 #printing the variables
 print(a_44)
 print(b)

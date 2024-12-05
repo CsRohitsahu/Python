@@ -1,9 +1,10 @@
 # set is unordered collection of data that is mutable
 
 
-'''a={1,4,5,3,5}
-print(type(a))
-print(a)'''
+# a={1,4,5,3,5}
+# # print(type(a))
+# a.add(90)
+# print(a)
 b=set()
 print(type(b))
 # adding element in empty sets

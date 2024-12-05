@@ -1,5 +1,5 @@
 'r'  -> open for reading(default). Raises an I/O error if file doesn't exist
-'r+' -> open file for reading and writing
+'r+' -> open file for reading and writing, for writing it doesn't turncate it overrides 
 'w' -> open for writing ,truncating the file first if it exist. creates new files it it does not exist
 'x' -> create a new file and open it for writing
 'a' -> open for writing , appneding to the end of file if it exits. creates new files it it doesn't exit 

@@ -1,1 +1,2 @@
- created new file
+what is your name 
+my name is rohit

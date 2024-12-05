@@ -24,3 +24,4 @@ l1.remove(21)  # return type void here we don't pass index rather we pass elemen
 print(l1)
 
 
+

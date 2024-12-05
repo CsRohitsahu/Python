@@ -13,9 +13,9 @@ myDict={
     }
 
 }
-# print(myDict['Fast'])
+print(myDict["Fast"])
 myDict['Marks']=[4,3]
 # print(myDict["Marks"])# dictionary is mutable
 # print(myDict["Rohit"])
-print(myDict['anotherdict'])
+print(myDict['anotherdict']['mohit'])
 
